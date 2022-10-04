@@ -1,0 +1,1 @@
+insert into student values (1,'Gopal',1001,200);
